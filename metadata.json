@@ -1,0 +1,5 @@
+{
+  "name": "Doodax Readability Checker",
+  "description": "A React application that acts as a powerful readability checker. It calculates the Flesch-Kincaid grade level of a given text and highlights complex sentences, while also featuring marketing sections to upsell a premium AI-powered version.",
+  "requestFramePermissions": []
+}
