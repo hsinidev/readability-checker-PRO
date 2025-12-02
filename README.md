@@ -1,4 +1,4 @@
-# Doodax - Advanced Online Readability Checker
+#  Advanced Online Readability Checker
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![React Version](https://img.shields.io/badge/react-19%2B-%2361DAFB)](https://react.dev/)
