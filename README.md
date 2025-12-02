@@ -8,7 +8,7 @@
 <div align="center">
   <br />
   <h3>
-    <a href="https://doodax.com" target="_blank">🚀 LIVE DEMO</a>
+    <a href="https://doodax.com/tools/readability-checker/index.html" target="_blank">🚀 LIVE DEMO</a>
   </h3>
   <br />
 </div>
